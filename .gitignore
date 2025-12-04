@@ -1,0 +1,19 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environment
+env/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore IDE
+.vscode/
+.idea/
+*.swp
+*.swo
